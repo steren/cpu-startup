@@ -1,0 +1,11 @@
+{
+  "name": "cpu-startup",
+  "version": "1.0.0",
+  "description": "Burn CPU before listening for requests",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "Steren Giannini steren@google.com",
+  "license": "Apache-2.0"
+}
